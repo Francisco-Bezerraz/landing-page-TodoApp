@@ -1,0 +1,14 @@
+# -- IDEs Jetbrains
+.idea/
+*.iml
+
+# -- VScode
+.vscode/
+
+# -- Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# -- Dependencias / Build (uteis qdo o projeto crescer,)
+node_modules/
+dist/
